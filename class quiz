@@ -1,1 +1,22 @@
 
+import 'dart:io';
+void main(){
+  // 1211145567998
+String userTarget1 = int.parse(stdin.readLineSync()!);
+  print = ("the msg code is 111231142516172918 " );
+  
+  
+  //1110038
+  int userTarget2 = int.parse(stdin.readLineSync()!);
+  print = ('the msg code is 31201318');
+  
+  //110019
+  int userTarget3 =  int.parse(stdin.readLineSync()!);
+  print  = ('the msg code is 21201119');
+  
+  //12101116
+  int userTarget4 =  int.parse(stdin.readLineSync()!);
+  print  = ('the msg code is 2016');
+  
+  
+}
